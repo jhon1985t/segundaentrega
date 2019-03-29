@@ -1,0 +1,17 @@
+{
+  "name": "segundaentrega",
+  "version": "1.0.1",
+  "description": "segunda entrega jhon jarol tabares orozco",
+  "main": "src/app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jhon jarol tabares orozco",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
+    "yargs": "^13.2.2"
+  }
+}
